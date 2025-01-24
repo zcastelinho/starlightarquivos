@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/tiro dragon.mp3-74fa0fc037fd33b9194e2a0df1cdcba7.mp3str"
+
+[deps]
+
+source_file="res://Material rescue/sons/tiro dragon.mp3"
+dest_files=[ "res://.import/tiro dragon.mp3-74fa0fc037fd33b9194e2a0df1cdcba7.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
