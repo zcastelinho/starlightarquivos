@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Efeito sonoro de tiroteio com blaster (Star wars) (1) (online-audio-converter.com).mp3-d114da1c69023794b2b588067aed5391.mp3str"
+
+[deps]
+
+source_file="res://Material rescue/sons/Efeito sonoro de tiroteio com blaster (Star wars) (1) (online-audio-converter.com).mp3"
+dest_files=[ "res://.import/Efeito sonoro de tiroteio com blaster (Star wars) (1) (online-audio-converter.com).mp3-d114da1c69023794b2b588067aed5391.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

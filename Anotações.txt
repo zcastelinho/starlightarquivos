@@ -1,0 +1,15 @@
+Aula 3 - Alien
+
+Cena Alien (KinematicBody2D): vai em Transform -> Scale: x: 0.1 e y: 0.1
+
+--AnimatedSprite: vai em Frames e adiciona um new SpriteFrames, vai na pasta dos aliens e adiciona-os no ambiente do     	SpriteFrames. Sobre o player, marca Resource -> playing como on. no Ambiente dos spritesFrame, em animations, vai Newm 	Anim e adiciona um recurso "explosao". e na explosao adiciona todos os frames de explosão. as explosões devem ter speed 	(FPS): 8. nas explosões, em Resource -> Animation: default.
+
+--CollisiumShape2D: adiciona um shape circular sobre o alien.
+
+--morte (Timer): Wait time: 0.1 e on Shot: on. deve fazer um sinal. Vai em Node, e conecta o timeout()
+
+Cena Main
+---> Player
+---> Sprite: importa o sprite dentro de Sprite -> Texture. Em Offset, desmarca a opção Centered. Em Node2D -> Z Index -> Z Index: -1. Em seguida, conecta na Main, por meio da corrente, a cena Alien.
+
+Cena Laser: vai em Node, e escolhe o sinal body_entered e conecta.
